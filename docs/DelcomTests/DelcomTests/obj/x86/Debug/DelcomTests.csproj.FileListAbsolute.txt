@@ -1,0 +1,6 @@
+c:\users\fraser\documents\visual studio 2010\Projects\DelcomTests\DelcomTests\bin\Debug\DelcomTests.exe
+c:\users\fraser\documents\visual studio 2010\Projects\DelcomTests\DelcomTests\bin\Debug\DelcomTests.pdb
+c:\users\fraser\documents\visual studio 2010\Projects\DelcomTests\DelcomTests\bin\Debug\LibUsbDotNet.dll
+c:\users\fraser\documents\visual studio 2010\Projects\DelcomTests\DelcomTests\obj\x86\Debug\DelcomTests.csprojResolveAssemblyReference.cache
+c:\users\fraser\documents\visual studio 2010\Projects\DelcomTests\DelcomTests\obj\x86\Debug\DelcomTests.exe
+c:\users\fraser\documents\visual studio 2010\Projects\DelcomTests\DelcomTests\obj\x86\Debug\DelcomTests.pdb
